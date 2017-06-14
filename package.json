@@ -6,6 +6,7 @@
   "scripts": {
     "test": "node test"
   },
+  "private": false,
   "author": "blended.io <hola@blended.io>",
   "license": "MIT",
   "dependencies": {

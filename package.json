@@ -1,6 +1,6 @@
 {
   "name": "@blended/api-to-swagger",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "produces swagger paths and definitions",
   "main": "index.js",
   "scripts": {

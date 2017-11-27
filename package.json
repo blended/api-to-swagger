@@ -11,6 +11,6 @@
   "license": "MIT",
   "dependencies": {
     "@blended/joi-to-swagger": "^1.1.0",
-    "joi": "^10.5.2"
+    "joi": "^13.0.2"
   }
 }
